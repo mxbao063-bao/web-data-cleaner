@@ -1,0 +1,12 @@
+[
+  {
+    "Company": "Northwind",
+    "Category": "Retail",
+    "Website": "https://northwind.example"
+  },
+  {
+    "Company": "Contoso",
+    "Category": "Software",
+    "Website": "https://contoso.example"
+  }
+]
