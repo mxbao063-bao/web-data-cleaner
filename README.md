@@ -38,3 +38,19 @@ Client gets:
 - README and demo command
 - One small revision after review
 - Optional scheduled run
+
+## Custom Setup
+
+Need this adapted to your public data source?
+
+I can customize this starter project for:
+
+- public webpage/table extraction
+- CSV or JSON schema cleanup
+- deduplication and validation
+- scheduled runs
+- README and handoff notes
+
+Contact: `mxbao063@gmail.com` for a fixed-scope quote.
+
+More details: [`CUSTOMIZATION.md`](CUSTOMIZATION.md)
